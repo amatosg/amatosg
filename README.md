@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Computer Science is no more about computers than astronomy is about telescopes.
+Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
 
-~ Edsger W. Dijkstra
+~ Bjarne Stroustrup
 
 
 [website]: https://facturapp.com
