@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Maybe "just one little global variable" isn't too unmanageable, but that style leads to code that is useless except to its original programmer.
+Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
 
-~ Bjarne Stroustrup
+~ L. Peter Deutsch
 
 
 [website]: https://facturapp.com
