@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
+Computer Science is no more about computers than astronomy is about telescopes.
 
-~ Douglas Crockford
+~ Edsger W. Dijkstra
 
 
 [website]: https://facturapp.com
