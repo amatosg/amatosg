@@ -1,19 +1,23 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hola, I'm Alejandro! 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=facturapp.com&style=for-the-badge&url=https%3A%2F%2Ffacturapp.com)](https://facturapp.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/amatosg?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Famatosg&screen_name=amatosg)
 
 ## I'm a Husband, Father, Developer!
 
 - 🔭 I’m currently working on [FacturApp][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning how to teach!
 - 🎥 2020 Goals: Start a YouTube channel to teach about Software Development
 - ⚡ Fun fact: I love to play chess
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+## Padre, esposo y programador!
+
+- 🔭 Actualmente estoy trabajando en [FacturApp][website]!
+- 🌱 Estoy aprendiendo a enseñar
+- 🎥 Objetivo para 2020: Iniciar un canal de YouTube para enseñar hacer de desarrollo de software
+- ⚡ Curiosidad: Me encanta el ajedrez
+
+### Connect with me/Conecta conmigo:
 
 [<img align="left" alt="facturapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -23,9 +27,10 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools/Lenguajes y Herramientas:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9b5e7dcc-db45-4acb-8078-4f1e40191fe1/dbfye6x-ee5cf816-da93-4428-8cc6-e388e0b45136.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOWI1ZTdkY2MtZGI0NS00YWNiLTgwNzgtNGYxZTQwMTkxZmUxXC9kYmZ5ZTZ4LWVlNWNmODE2LWRhOTMtNDQyOC04Y2M2LWUzODhlMGI0NTEzNi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ._0zGB33NIE1jhC583GLDwygXr5jsMVwfCaEtBWtWNt0" />][webdevplaylist]
+
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][webdevplaylist]
