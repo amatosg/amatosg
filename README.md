@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.
+Young man, in mathematics you don't understand things. You just get used to them.
 
-~ L. Peter Deutsch
+~ John von Neumann
 
 
 [website]: https://facturapp.com
