@@ -58,6 +58,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Automatically backup and upload to S3](https://dev.to/amatosg/automatically-backup-and-upload-to-s3-4j2p)
+- [Formateando Selector de fechas en Angular](https://dev.to/amatosg/formateando-selector-de-fechas-en-angular-3p8i)
+- [Customize date picker in Angular](https://dev.to/amatosg/customize-date-picker-in-angular-4323)
+- [Setting up environment for JHIpster](https://dev.to/amatosg/setting-up-environment-for-jhipster-3ccb)
+- [Array.foreach vs for() 😰](https://dev.to/amatosg/arrayforeach-vs-for-4l47)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)
