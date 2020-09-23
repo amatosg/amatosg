@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.
 
-~ Fred Brooks
+~ Douglas Crockford
 
 
 [website]: https://facturapp.com
