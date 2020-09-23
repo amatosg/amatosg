@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A language that doesn't affect the way you think about programming, is not worth knowing.
+One of the things I’ve been pushing is code reading. I think that is the most useful thing that a community of programmers can do for each other—spend time on a regular basis reading each other’s code.
 
-~ Alan Perlis
+~ Douglas Crockford
 
 
 [website]: https://facturapp.com
