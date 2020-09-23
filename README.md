@@ -69,21 +69,14 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="Alejandro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amatosg&show_icons=true&hide_border=true" />
-   <img align="left" alt="Alejandro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amatos-aeropost&show_icons=true&hide_border=true" />
 
-</details>
+### Quote of the hour
+
+A language that doesn't affect the way you think about programming, is not worth knowing.
+
+~ Alan Perlis
+
 
 [website]: https://facturapp.com
 [twitter]: https://twitter.com/amatosg
