@@ -75,8 +75,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="amatosg's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amatosg&show_icons=true&hide_border=true" />
-   <img align="left" alt="amatosg's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amatosg-aeropost&show_icons=true&hide_border=true" />
+  <img align="left" alt="Alejandro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amatosg&show_icons=true&hide_border=true" />
+   <img align="left" alt="Alejandro's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=amatos-aeropost&show_icons=true&hide_border=true" />
 
 </details>
 
