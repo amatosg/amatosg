@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+The most important thing is to be able to think what you want, not to say what you want.
 
-~ Donald Knuth
+~ Paul Graham (programmer)
 
 
 [website]: https://facturapp.com
