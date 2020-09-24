@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
+If each part of the task must be separately coordinated with each other part, the effort increases as n(n-1)/2. Three workers require three times as much pairwise intercommunication as two; four require six times as much as two.
 
-~ John Carmack
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
