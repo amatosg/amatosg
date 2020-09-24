@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.
+Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
 
-~ Fred Brooks
+~ John Warnock
 
 
 [website]: https://facturapp.com
