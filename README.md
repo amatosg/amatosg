@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
+Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
 
-~ Fred Brooks
+~ Roy Fielding
 
 
 [website]: https://facturapp.com
