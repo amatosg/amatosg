@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
+Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
 
-~ David Gelernter
+~ Brian Kernighan
 
 
 [website]: https://facturapp.com
