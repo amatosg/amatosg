@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
+The purpose of software engineering is to control complexity, not to create it.
 
-~ George Boole
+~ Pamela Zave
 
 
 [website]: https://facturapp.com
