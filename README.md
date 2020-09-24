@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The most important thing is to be able to think what you want, not to say what you want.
+Beauty is more important in computing than anywhere else in technology because software is so complicated. Beauty is the ultimate defense against complexity.
 
-~ Paul Graham (programmer)
+~ David Gelernter
 
 
 [website]: https://facturapp.com
