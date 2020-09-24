@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Young man, in mathematics you don't understand things. You just get used to them.
+Really, I'm not out to destroy Microsoft. That will just be a completely unintentional side effect.
 
-~ John von Neumann
+~ Linus Torvalds
 
 
 [website]: https://facturapp.com
