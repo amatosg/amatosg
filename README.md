@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Don’t go into a two-year development with nothing coming out in the middle. Have something come out every two months, so you can evaluate, regroup, and restart.
+Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
 
-~ John Warnock
+~ Jamie Zawinski
 
 
 [website]: https://facturapp.com
