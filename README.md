@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The proper use of comments is to compensate for our failure to express ourself in code.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Robert C. Martin
+~ Donald Knuth
 
 
 [website]: https://facturapp.com
