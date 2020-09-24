@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Communication must be stateless in nature, such that each request from client to server must contain all of the information necessary to understand the request, and cannot take advantage of any stored context on the server.
+That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
 
-~ Roy Fielding
+~ George Boole
 
 
 [website]: https://facturapp.com
