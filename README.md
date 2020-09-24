@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+The cost of adding a feature isn’t just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don’t fight each other.
 
-~ Brian Kernighan
+~ John Carmack
 
 
 [website]: https://facturapp.com
