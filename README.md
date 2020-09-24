@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The purpose of software engineering is to control complexity, not to create it.
+What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
 
-~ Pamela Zave
+~ Dennis Ritchie
 
 
 [website]: https://facturapp.com
