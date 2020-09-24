@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
+In 1971 when I joined the staff of the MIT Artificial Intelligence lab, all of us who helped develop the operating system software, we called ourselves hackers. We were not breaking any laws, at least not in doing the hacking we were paid to do. We were developing software and we were having fun. Hacking refers to the spirit of fun in which we were developing software.
 
-~ Harlan Mills
+~ Richard Stallman
 
 
 [website]: https://facturapp.com
