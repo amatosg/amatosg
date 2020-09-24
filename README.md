@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-What we wanted to preserve was not just a good environment in which to do programming, but a system around which fellowship could form.
+When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
 
-~ Dennis Ritchie
+~ Gerald Weinberg
 
 
 [website]: https://facturapp.com
