@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.
+The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.
 
-~ Gerald Weinberg
+~ Harlan Mills
 
 
 [website]: https://facturapp.com
