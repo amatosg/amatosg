@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Making things easy is hard.
+Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.
 
-~ Ted Nelson
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
