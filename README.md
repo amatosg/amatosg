@@ -73,7 +73,7 @@
 
 ### Quote of the hour
 
-That language is an instrument of human reason, and not merely a medium for the expression of thought, is a truth generally admitted.
+No matter how correct a mathematical theorem may appear to be, one ought never to be satisfied that there was not something imperfect about it until it also gives the impression of being beautiful.
 
 ~ George Boole
 
