@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
+What's very important from my point of view is that there is one web. Anyone that tries to chop it into two will find that their piece looks very boring.
 
-~ Bill Gates
+~ Tim Berners-Lee
 
 
 [website]: https://facturapp.com
