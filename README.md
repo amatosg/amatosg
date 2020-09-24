@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
+A great programmer thinks about the program on a constant basis, whether driving or eating. That method takes an incredible amount of mental energy.
 
-~ George Boole
+~ Bill Gates
 
 
 [website]: https://facturapp.com
