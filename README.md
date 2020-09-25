@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
+The proper use of comments is to compensate for our failure to express ourself in code.
 
-~ Douglas Crockford
+~ Robert C. Martin
 
 
 [website]: https://facturapp.com
