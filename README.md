@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Walking on water and developing software from a specification are easy if both are frozen.
+When debugging, novices insert corrective code; experts remove defective code.
 
-~ Edward V. Berard
+~ Richard E. Pattis
 
 
 [website]: https://facturapp.com
