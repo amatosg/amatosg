@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The hardest part of design is keeping features out.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Don Norman
+~ Butler Lampson
 
 
 [website]: https://facturapp.com
