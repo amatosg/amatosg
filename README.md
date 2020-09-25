@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A picture may be worth a thousand words, a formula is worth a thousand pictures.
+It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
 
-~ Edsger W. Dijkstra
+~ Nathaniel Borenstein
 
 
 [website]: https://facturapp.com
