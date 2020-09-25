@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
+The situation is so much better for programmers today - a cheap used PC, a linux CD, and an internet account, and you have all the tools necessary to work your way to any level of programming skill you want to shoot for.
 
-~ Jamie Zawinski
+~ John Carmack
 
 
 [website]: https://facturapp.com
