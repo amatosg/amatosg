@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
+Anyone who has ever written a program knows that telling a computer what you want it to do is not as easy as it sounds. Every detail of the computer’s desired operation must be precisely described. For instance, if you tell an accounting program to bill your clients for the amount that each owes, then the computer will send out a weekly bill for $0.00 to clients who owe nothing.
 
-~ Joseph Yoder (computer scientist)
+~ Danny Hillis
 
 
 [website]: https://facturapp.com
