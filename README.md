@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
 
-~ Ada Lovelace
+~ Ellen Ullman
 
 
 [website]: https://facturapp.com
