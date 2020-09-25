@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Life is too short to run proprietary software.
+Any product that needs a manual to work is broken.
 
-~ Bdale Garbee
+~ Elon Musk
 
 
 [website]: https://facturapp.com
