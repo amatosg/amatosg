@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Much of the essence of building a program is in fact the debugging of the specification.
+Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer.
 
-~ Fred Brooks
+~ Jamie Zawinski
 
 
 [website]: https://facturapp.com
