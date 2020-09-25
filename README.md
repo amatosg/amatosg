@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Beware of bugs in the above code; I have only proved it correct, not tried it.
+A picture may be worth a thousand words, a formula is worth a thousand pictures.
 
-~ Donald Knuth
+~ Edsger W. Dijkstra
 
 
 [website]: https://facturapp.com
