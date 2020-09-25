@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Any product that needs a manual to work is broken.
+An infinite number of monkeys typing into GNU Emacs would never make a good program.
 
-~ Elon Musk
+~ Linus Torvalds
 
 
 [website]: https://facturapp.com
