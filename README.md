@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-An infinite number of monkeys typing into GNU Emacs would never make a good program.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Linus Torvalds
+~ Eric S. Raymond
 
 
 [website]: https://facturapp.com
