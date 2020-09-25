@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.
+No code is faster than no code.
 
-~ Jamie Zawinski
+~ Kevlin Henney
 
 
 [website]: https://facturapp.com
