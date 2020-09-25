@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-No code is faster than no code.
+Good architecture is necessary to give programs enough structure to be able to grow large without collapsing into a puddle of confusion.
 
-~ Kevlin Henney
+~ Douglas Crockford
 
 
 [website]: https://facturapp.com
