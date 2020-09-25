@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-It should be noted that no ethically-trained software engineer would ever consent to write a DestroyBaghdad procedure. Basic professional ethics would instead require him to write a DestroyCity procedure, to which Baghdad could be given as a parameter.
+Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team.
 
-~ Nathaniel Borenstein
+~ Joseph Yoder (computer scientist)
 
 
 [website]: https://facturapp.com
