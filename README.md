@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
+Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
 
-~ Fred Brooks
+~ Butler Lampson
 
 
 [website]: https://facturapp.com
