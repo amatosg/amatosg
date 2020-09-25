@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+Walking on water and developing software from a specification are easy if both are frozen.
 
-~ Butler Lampson
+~ Edward V. Berard
 
 
 [website]: https://facturapp.com
