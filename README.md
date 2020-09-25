@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-We build our computer systems the way we build our cities: over time, without a plan, on top of ruins.
+The hardest part of design is keeping features out.
 
-~ Ellen Ullman
+~ Don Norman
 
 
 [website]: https://facturapp.com
