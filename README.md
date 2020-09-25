@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I'm interested in creating images that communicate with people.
+Beware of bugs in the above code; I have only proved it correct, not tried it.
 
-~ Toru Iwatani
+~ Donald Knuth
 
 
 [website]: https://facturapp.com
