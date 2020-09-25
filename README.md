@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-When debugging, novices insert corrective code; experts remove defective code.
+Life is too short to run proprietary software.
 
-~ Richard E. Pattis
+~ Bdale Garbee
 
 
 [website]: https://facturapp.com
