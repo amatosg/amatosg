@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The proper use of comments is to compensate for our failure to express ourself in code.
+Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program.
 
-~ Robert C. Martin
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
