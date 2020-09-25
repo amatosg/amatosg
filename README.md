@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated.
+I'm interested in creating images that communicate with people.
 
-~ Butler Lampson
+~ Toru Iwatani
 
 
 [website]: https://facturapp.com
