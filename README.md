@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
+The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
 
-~ John von Neumann
+~ Alan Perlis
 
 
 [website]: https://facturapp.com
