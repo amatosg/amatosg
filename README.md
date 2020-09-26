@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The best book on programming for the layman is Alice in Wonderland, but that's because it's the best book on anything for the layman.
+The very best technology never has as much impact as girlfriend or boyfriend trouble.
 
-~ Alan Perlis
+~ Tom DeMarco
 
 
 [website]: https://facturapp.com
