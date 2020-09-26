@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
+Most errors are introduced during requirements specification!
 
-~ Ted Nelson
+~ Daniel T. Barry
 
 
 [website]: https://facturapp.com
