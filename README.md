@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
 
-~ Rick Osborne
+~ Gottfried Wilhelm Leibniz
 
 
 [website]: https://facturapp.com
