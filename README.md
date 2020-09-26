@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
+Any product that needs a manual to work is broken.
 
-~ Ada Lovelace
+~ Elon Musk
 
 
 [website]: https://facturapp.com
