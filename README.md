@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Never memorize something that you can look up.
+To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
 
-~ Albert Einstein
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
