@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Programming increases goes as a power of program size.
+I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
 
-~ Fred Brooks
+~ Linus Torvalds
 
 
 [website]: https://facturapp.com
