@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I'm doing a free operating system (just a hobby, won't be big and professional like GNU).
+The Domain Name Server (DNS) is the Achilles heel of the Web.
 
-~ Linus Torvalds
+~ Tim Berners-Lee
 
 
 [website]: https://facturapp.com
