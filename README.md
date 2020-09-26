@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-To achieve conceptual integrity, a design must proceed from one mind or a small group of agreeing minds.
+The tools we use have a profound and devious influence on our thinking habits, and therefore on our thinking abilities.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 
 
 [website]: https://facturapp.com
