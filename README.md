@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
+Never memorize something that you can look up.
 
-~ Fred Brooks
+~ Albert Einstein
 
 
 [website]: https://facturapp.com
