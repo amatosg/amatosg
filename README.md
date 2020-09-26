@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-We who cut mere stones must always be envisioning cathedrals.
+The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
 
-~ Quarry worker's creed
+~ Donald Knuth
 
 
 [website]: https://facturapp.com
