@@ -73,7 +73,7 @@
 
 ### Quote of the hour
 
-Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!
+One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.
 
 ~ Fred Brooks
 
