@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Every good work of software starts by scratching a developer’s personal itch.
+Programming increases goes as a power of program size.
 
-~ Eric S. Raymond
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
