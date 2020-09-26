@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Most errors are introduced during requirements specification!
+I don't like using any tools or programs I didn't write myself or that I don't have some control over.
 
-~ Daniel T. Barry
+~ Jonathan Sachs
 
 
 [website]: https://facturapp.com
