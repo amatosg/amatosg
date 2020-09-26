@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The very best technology never has as much impact as girlfriend or boyfriend trouble.
+There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
 
-~ Tom DeMarco
+~ Jeremy S. Anderson
 
 
 [website]: https://facturapp.com
