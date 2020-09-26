@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Programming is at least as difficult as developing a mathematical theory.
+Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
-~ Daniel T. Barry
+~ Rick Osborne
 
 
 [website]: https://facturapp.com
