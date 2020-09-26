@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Any product that needs a manual to work is broken.
+Code never lies, comments sometimes do.
 
-~ Elon Musk
+~ Ron Jeffries
 
 
 [website]: https://facturapp.com
