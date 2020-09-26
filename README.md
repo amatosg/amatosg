@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+A large part of mathematics which becomes useful developed with absolutely no desire to be useful, and in a situation where nobody could possibly know in what area it would become useful.
 
-~ Steve Jobs
+~ John von Neumann
 
 
 [website]: https://facturapp.com
