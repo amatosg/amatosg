@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I don't like using any tools or programs I didn't write myself or that I don't have some control over.
+We who cut mere stones must always be envisioning cathedrals.
 
-~ Jonathan Sachs
+~ Quarry worker's creed
 
 
 [website]: https://facturapp.com
