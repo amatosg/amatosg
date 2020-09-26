@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.
+The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.
 
-~ Donald Knuth
+~ Ada Lovelace
 
 
 [website]: https://facturapp.com
