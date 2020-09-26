@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-As numbers are reduced to the simplest principles, like 0 and 1, a wonderful order is apparent throughout.
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Gottfried Wilhelm Leibniz
+~ Steve Jobs
 
 
 [website]: https://facturapp.com
