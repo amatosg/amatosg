@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The Domain Name Server (DNS) is the Achilles heel of the Web.
+Programming is at least as difficult as developing a mathematical theory.
 
-~ Tim Berners-Lee
+~ Daniel T. Barry
 
 
 [website]: https://facturapp.com
