@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-There are two major products that come out of Berkeley: LSD and UNIX. We don't believe this to be a coincidence.
+A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.
 
-~ Jeremy S. Anderson
+~ Ted Nelson
 
 
 [website]: https://facturapp.com
