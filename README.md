@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.
+Documentation is a love letter that you write to your future self.
 
-~ Brian Kernighan
+~ Damian Conway
 
 
 [website]: https://facturapp.com
