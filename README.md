@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
+My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.
 
-~ Douglas Crockford
+~ Donald Knuth
 
 
 [website]: https://facturapp.com
