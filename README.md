@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The best way to predict the future is to invent it.
+In theory, there is no difference between theory and practice. But, in practice, there is.
 
-~ Alan Kay
+~ Jan L. A. van de Snepscheut
 
 
 [website]: https://facturapp.com
