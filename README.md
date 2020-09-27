@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Sometimes it’s just easier to throw a system away, and start over.
+I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
 
-~ Joseph Yoder (computer scientist)
+~ Donald Knuth
 
 
 [website]: https://facturapp.com
