@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
+In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders.
 
-~ Martin Fowler
+~ Douglas Crockford
 
 
 [website]: https://facturapp.com
