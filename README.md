@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Software engineering is the part of computer science which is too difficult for the computer scientist.
+Sometimes it’s just easier to throw a system away, and start over.
 
-~ Friedrich Bauer
+~ Joseph Yoder (computer scientist)
 
 
 [website]: https://facturapp.com
