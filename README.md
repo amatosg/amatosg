@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Documentation is a love letter that you write to your future self.
+Cleaning code does NOT take time. NOT cleaning code does take time.
 
-~ Damian Conway
+~ Robert C. Martin
 
 
 [website]: https://facturapp.com
