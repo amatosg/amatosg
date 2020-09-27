@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The limits of my language mean the limits of my world.
+When I invented the web, I didn't have to ask anyone's permission.
 
-~ Ludwig Wittgenstein
+~ Tim Berners-Lee
 
 
 [website]: https://facturapp.com
