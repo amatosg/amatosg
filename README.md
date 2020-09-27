@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Cleaning code does NOT take time. NOT cleaning code does take time.
+The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
 
-~ Robert C. Martin
+~ Mario Fusco
 
 
 [website]: https://facturapp.com
