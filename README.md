@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-In theory, there is no difference between theory and practice. But, in practice, there is.
+Artificial intelligence is the science of making machines do things that would require intelligence if done by men.
 
-~ Jan L. A. van de Snepscheut
+~ Marvin Minsky
 
 
 [website]: https://facturapp.com
