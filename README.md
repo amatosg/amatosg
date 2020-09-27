@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-When I invented the web, I didn't have to ask anyone's permission.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
 
-~ Tim Berners-Lee
+~ Brian Kernighan
 
 
 [website]: https://facturapp.com
