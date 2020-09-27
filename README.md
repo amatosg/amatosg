@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.
+The limits of my language mean the limits of my world.
 
-~ Mario Fusco
+~ Ludwig Wittgenstein
 
 
 [website]: https://facturapp.com
