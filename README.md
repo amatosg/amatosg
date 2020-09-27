@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I’ll use dirty tricks for two reasons. One is, if it’s really going to give me a performance improvement. Or sometimes just for pure pleasure. In any case, I document it; I don’t just put it in there.
+It was on one of my journeys between the EDSAC room and the punching equipment the realization came over me with full force that a good part of the remainder of my life was going to be spent in finding errors in my own programs.
 
-~ Donald Knuth
+~ Maurice Wilkes
 
 
 [website]: https://facturapp.com
