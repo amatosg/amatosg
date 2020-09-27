@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.
+If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 
 
 [website]: https://facturapp.com
