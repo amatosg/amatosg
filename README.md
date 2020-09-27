@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+Software engineering is the part of computer science which is too difficult for the computer scientist.
 
-~ Brian Kernighan
+~ Friedrich Bauer
 
 
 [website]: https://facturapp.com
