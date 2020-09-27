@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.
+W​henever I have to think to understand what the code is doing, I ask myself if I can refactor the code to make that understanding more immediately apparent.
 
-~ Fred Brooks
+~ Martin Fowler
 
 
 [website]: https://facturapp.com
