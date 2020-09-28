@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I'm not a great programmer; I'm just a good programmer with great habits.
+Debugging time increases as a square of the program’s size.
 
-~ Kent Beck
+~ Chris Wenham
 
 
 [website]: https://facturapp.com
