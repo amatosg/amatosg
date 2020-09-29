@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Debugging time increases as a square of the program’s size.
+The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
 
-~ Chris Wenham
+~ Danny Hillis
 
 
 [website]: https://facturapp.com
