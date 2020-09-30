@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.
+Cool URIs don't change.
 
-~ Danny Hillis
+~ Tim Berners-Lee
 
 
 [website]: https://facturapp.com
