@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Cool URIs don't change.
+There's only one trick in software, and that is using a piece of software that's already been written.
 
-~ Tim Berners-Lee
+~ Bill Gates
 
 
 [website]: https://facturapp.com
