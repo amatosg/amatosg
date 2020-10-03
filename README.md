@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A program that produces incorrect results twice as fast is infinitely slower.
+I think one of the most valuable rules is avoid duplication.
 
-~ John Ousterhout
+~ Martin Fowler
 
 
 [website]: https://facturapp.com
