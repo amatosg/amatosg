@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I think one of the most valuable rules is avoid duplication.
+One man's constant is another man's variable.
 
-~ Martin Fowler
+~ Alan Perlis
 
 
 [website]: https://facturapp.com
