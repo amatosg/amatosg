@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-One man's constant is another man's variable.
+The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
 
-~ Alan Perlis
+~ Danny Hillis
 
 
 [website]: https://facturapp.com
