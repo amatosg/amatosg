@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is.
+A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
 
-~ Danny Hillis
+~ Daniel T. Barry
 
 
 [website]: https://facturapp.com
