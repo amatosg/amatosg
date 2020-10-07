@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A stupid error is an algorithmically avoidable error. Mainly, you are stupid if you let an error that a program can detect go undetected.
+A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
 
-~ Daniel T. Barry
+~ Alan Turing
 
 
 [website]: https://facturapp.com
