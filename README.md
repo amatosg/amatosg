@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A man provided with paper, pencil, and rubber, and subject to strict discipline, is in effect a universal machine.
+When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.
 
-~ Alan Turing
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
