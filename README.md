@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-People are mistaken when they think that technology just automatically improves. It does not automatically improve. It only improves if a lot of people work very hard to make it better, and actually it will, I think, by itself degrade, actually.
+We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
 
-~ Elon Musk
+~ Ada Lovelace
 
 
 [website]: https://facturapp.com
