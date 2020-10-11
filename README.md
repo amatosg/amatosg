@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves.
+Every good work of software starts by scratching a developer’s personal itch.
 
-~ Ada Lovelace
+~ Eric S. Raymond
 
 
 [website]: https://facturapp.com
