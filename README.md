@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-You can't just ask customers what they want and then try to give that to them. By the time you get it built, they'll want something new.
+The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
 
-~ Steve Jobs
+~ Seymour Cray
 
 
 [website]: https://facturapp.com
