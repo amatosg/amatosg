@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The trouble with programmers is that you can never tell what a programmer is doing until it’s too late.
+There is not only a close analogy between the operations of the mind in general reasoning and its operations in the particular science of Algebra, but there is to a considerable extent an exact agreement in the laws by which the two classes of operations are conducted.
 
-~ Seymour Cray
+~ George Boole
 
 
 [website]: https://facturapp.com
