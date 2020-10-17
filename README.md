@@ -73,11 +73,9 @@
 
 ### Quote of the hour
 
-Two things are known about requirements:
-1. They will change!
-2. They will be misunderstood!
+I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
 
-~ Michael A. Jackson
+~ Steve Jobs
 
 
 [website]: https://facturapp.com
