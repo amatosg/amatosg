@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.
+If you have a procedure with 10 parameters, you probably missed some.
 
-~ Steve Jobs
+~ Alan Perlis
 
 
 [website]: https://facturapp.com
