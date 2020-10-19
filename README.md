@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-If you have a procedure with 10 parameters, you probably missed some.
+Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
 
-~ Alan Perlis
+~ Marijn Haverbeke
 
 
 [website]: https://facturapp.com
