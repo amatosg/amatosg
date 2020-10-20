@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Size almost always involves complexity, and complexity confuses programmers. Confused programmers, in turn, introduce mistakes (bugs) into programs.
+The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
 
-~ Marijn Haverbeke
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
