@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
 
-~ Fred Brooks
+~ Ted Nelson
 
 
 [website]: https://facturapp.com
