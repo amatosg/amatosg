@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Learning to program has no more to do with designing interactive software than learning to touch type has to do with writing poetry.
+All repairs tend to destroy structure, to increase the entropy and disorder of a system.
 
-~ Ted Nelson
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
