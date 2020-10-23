@@ -73,7 +73,7 @@
 
 ### Quote of the hour
 
-All repairs tend to destroy structure, to increase the entropy and disorder of a system.
+Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
 
 ~ Fred Brooks
 
