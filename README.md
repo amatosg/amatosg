@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Study after study shows that the very best designers produce structures that are faster, smaller, simpler, cleaner, and produced with less effort. The differences between the great and the average approach an order of magnitude.
+Simplicity is prerequisite for reliability.
 
-~ Fred Brooks
+~ Edsger W. Dijkstra
 
 
 [website]: https://facturapp.com
