@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.
+Any product that needs a manual to work is broken.
 
-~ Fred Brooks
+~ Elon Musk
 
 
 [website]: https://facturapp.com
