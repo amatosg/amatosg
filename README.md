@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Any product that needs a manual to work is broken.
+The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
 
-~ Elon Musk
+~ Tom Cargill
 
 
 [website]: https://facturapp.com
