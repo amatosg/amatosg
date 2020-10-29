@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority.
 
-~ Tom Cargill
+~ Bill Gates
 
 
 [website]: https://facturapp.com
