@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures.
+Codes are a puzzle. A game, just like any other game.
 
-~ Alan Perlis
+~ Alan Turing
 
 
 [website]: https://facturapp.com
