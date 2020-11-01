@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Codes are a puzzle. A game, just like any other game.
+A few months writing code can save you a few hours in design.
 
-~ Alan Turing
+~ Anonymous
 
 
 [website]: https://facturapp.com
