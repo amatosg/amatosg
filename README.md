@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-A few months writing code can save you a few hours in design.
+The top 5% of programmers probably write 99% of the good software.
 
-~ Anonymous
+~ Paul Graham (programmer)
 
 
 [website]: https://facturapp.com
