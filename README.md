@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-The design of the following treatise is to investigate the fundamental laws of those operations of the mind by which reasoning is performed; to give expression to them in the symbolical language of a Calculus, and upon this foundation to establish the science of Logic and construct its method.
+I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
-~ George Boole
+~ Linus Torvalds
 
 
 [website]: https://facturapp.com
