@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I will, in fact, claim that the difference between a bad programmer and a good one is whether he considers his code or his data structures more important. Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
+Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
 
-~ Linus Torvalds
+~ Marijn Haverbeke
 
 
 [website]: https://facturapp.com
