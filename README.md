@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Programming, it turns out, is hard. The fundamental rules are typically simple and clear. But programs built on top of these rules tend to become complex enough to introduce their own rules and complexity. You’re building your own maze, in a way, and you might just get lost in it.
+Much of the essence of building a program is in fact the debugging of the specification.
 
-~ Marijn Haverbeke
+~ Fred Brooks
 
 
 [website]: https://facturapp.com
