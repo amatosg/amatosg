@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-Much of the essence of building a program is in fact the debugging of the specification.
+In handling resources, strive to avoid disaster rather than to attain an optimum.
 
-~ Fred Brooks
+~ Butler Lampson
 
 
 [website]: https://facturapp.com
