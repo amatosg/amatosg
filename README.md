@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-In handling resources, strive to avoid disaster rather than to attain an optimum.
+I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
 
-~ Butler Lampson
+~ Tim Berners-Lee
 
 
 [website]: https://facturapp.com
