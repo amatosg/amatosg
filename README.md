@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.
+By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
 
-~ Tim Berners-Lee
+~ Maurice Wilkes
 
 
 [website]: https://facturapp.com
