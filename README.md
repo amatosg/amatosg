@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-By June 1949 people had begun to realize that it was not so easy to get programs right as at one time appeared.
+We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
 
-~ Maurice Wilkes
+~ Bill Gates
 
 
 [website]: https://facturapp.com
