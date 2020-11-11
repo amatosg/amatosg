@@ -73,9 +73,9 @@
 
 ### Quote of the hour
 
-We're no longer in the days where everything is super well crafted. But at the heart of the programs that make it to the top, you'll find that the key internal code was done by a few people who really know what they were doing.
+The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer.
 
-~ Bill Gates
+~ Alan Turing
 
 
 [website]: https://facturapp.com
