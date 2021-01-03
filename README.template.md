@@ -7,14 +7,14 @@
 
 - 🔭 I’m currently working on [FacturApp][website]!
 - 🌱 I’m currently learning how to teach!
-- 🎥 2020 Goals: Start a YouTube channel to teach about Software Development
+- 🎥 2021 Goals: Start a YouTube channel to teach about Software Development
 - ⚡ Fun fact: I love to play chess
 
 ## Padre, esposo y programador!
 
 - 🔭 Actualmente estoy trabajando en [FacturApp][website]!
 - 🌱 Estoy aprendiendo a enseñar
-- 🎥 Objetivo para 2020: Iniciar un canal de YouTube para enseñar hacer de desarrollo de software
+- 🎥 Objetivo para 2021: Iniciar un canal de YouTube para enseñar aceerca de desarrollo de software
 - ⚡ Curiosidad: Me encanta el ajedrez
 
 ### Connect with me/Conecta conmigo:
@@ -43,29 +43,6 @@
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Automatically backup and upload to S3](https://dev.to/amatosg/automatically-backup-and-upload-to-s3-4j2p)
-- [Formateando Selector de fechas en Angular](https://dev.to/amatosg/formateando-selector-de-fechas-en-angular-3p8i)
-- [Customize date picker in Angular](https://dev.to/amatosg/customize-date-picker-in-angular-4323)
-- [Setting up environment for JHIpster](https://dev.to/amatosg/setting-up-environment-for-jhipster-3ccb)
-- [Array.foreach vs for() 😰](https://dev.to/amatosg/arrayforeach-vs-for-4l47)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
 
 ---
 
